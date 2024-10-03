@@ -11367,4 +11367,4 @@ OrionLib:MakeNotification({
     Content = "Loading Config Complete!!",
     Image = "rbxassetid://119980140458596",
     Time = 5
-})            CFrameMon = CFrame.new(
+})
